@@ -1,0 +1,1 @@
+# Copie e cole seu notebook aqui DEPOIS de exportar para o formato .py

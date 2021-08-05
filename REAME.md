@@ -1,0 +1,1 @@
+Repository of Introduction to Data Science course at UFMG
